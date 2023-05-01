@@ -20,13 +20,13 @@ description: "Personal blogs for HCI projects..."
 # and URL Link(e.g. 'Theme' tab below) tabs. If you don't need one, just delete
 # it from the list(Delete '- name: ' and 'url: ', too!)
 navigation:
-  - name: 首页
+  - name: HOME
     url: /
-  - name: 关于
+  - name: ABOUT
     url: /about
-  - name: 归档
+  - name: DOCUMENT
     url: /archive
-  - name: 标签
+  - name: TAG
     url: /tags
 
 # Pagination
@@ -36,7 +36,7 @@ excerpt_separator: <!-- more -->
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  #weibo: frommidworld #请输入你的微博个性域名 https://www.weibo.com/<thispart>
+  #weibo: frommidworld #Please use your weibo home-site https://www.weibo.com/<thispart>
   behance: # https://www.behance.net/<username>
   dribbble:
   zhihu: Valerie
@@ -65,8 +65,8 @@ disqus: # fromendworld
 gitalk:
   clientID: bd65d5c0df878155b7fa
   clientSecret: d0220762c05c2d6b6f6152a0f0e4b6b090de9729
-  repo: lemonchann.github.io
-  owner: lemonchann
+  repo: Valerie0521.github.io
+  owner: Valerie
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 #google_analytics: 
