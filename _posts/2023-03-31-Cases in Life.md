@@ -9,5 +9,3 @@
 ### Case III: Emergency Case
 
 ![](../images/Case-3.png)
-
-### 
