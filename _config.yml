@@ -22,12 +22,8 @@ description: "Personal blogs for HCI projects..."
 navigation:
   - name: HOME
     url: /
-  - name: ABOUT
-    url: /about
   - name: DOCUMENT
     url: /archive
-  - name: TAG
-    url: /tags
 
 # Pagination
 paginate: 8
